@@ -36,7 +36,7 @@
     border-radius: 50%;
     width: $tcon-search-glass-radius;
     height: $tcon-search-glass-radius;
-    border: $tcon-search-glass-border-width solid black;
+    border: $tcon-search-glass-border-width solid $tcon-search-color;
     transform-origin: 50% 50%;
   }
 }
